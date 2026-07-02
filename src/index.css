@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 35% 97%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+    --border: 214 32% 91%;
+    --primary: 224 76% 54%;
+    --primary-foreground: 210 40% 98%;
+    --accent: 153 63% 45%;
+    --accent-foreground: 210 40% 98%;
+    --warning: 32 95% 48%;
+    --destructive: 0 80% 58%;
+    --ring: 224 76% 54%;
+    --radius: 14px;
+  }
+
+  .dark {
+    --background: 223 47% 7%;
+    --foreground: 210 40% 98%;
+    --card: 224 36% 10%;
+    --card-foreground: 210 40% 96%;
+    --muted: 223 30% 16%;
+    --muted-foreground: 215 20% 70%;
+    --border: 223 30% 20%;
+    --primary: 221 90% 66%;
+    --primary-foreground: 210 40% 98%;
+    --accent: 153 63% 45%;
+    --accent-foreground: 210 40% 98%;
+    --warning: 37 92% 58%;
+    --destructive: 0 76% 62%;
+    --ring: 221 90% 66%;
+  }
+
+  * {
+    @apply border-slate-200 dark:border-slate-700;
+  }
+
+  html,
+  body,
+  #root {
+    @apply h-full;
+  }
+
+  body {
+    @apply m-0 bg-[hsl(var(--background))] font-sans text-[hsl(var(--foreground))] antialiased;
+    background-image:
+      radial-gradient(circle at 0% 0%, rgba(37, 99, 235, 0.08), transparent 45%),
+      radial-gradient(circle at 100% 0%, rgba(109, 40, 217, 0.08), transparent 35%),
+      linear-gradient(rgba(15, 23, 42, 0.02) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(15, 23, 42, 0.02) 1px, transparent 1px);
+    background-size: auto, auto, 44px 44px, 44px 44px;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply border border-white/50 bg-white/70 backdrop-blur-xl dark:border-white/10 dark:bg-slate-900/60;
+  }
+
+  .gradient-title {
+    @apply bg-gradient-to-r from-blue-600 via-violet-600 to-emerald-500 bg-clip-text text-transparent;
+  }
+
+  .soft-card {
+    @apply rounded-2xl border bg-white/90 p-5 shadow-soft dark:bg-slate-900/85;
+  }
+}
