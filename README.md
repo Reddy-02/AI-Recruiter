@@ -24,7 +24,7 @@ AI-powered recruitment intelligence platform that ranks candidates using semanti
 
 </p>
 
-<img src="assets/dashboard.png" width="100%">
+
 
 </div>
 
