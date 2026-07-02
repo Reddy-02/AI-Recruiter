@@ -1,471 +1,228 @@
-# 🎨 TalentMatch AI – Premium Enterprise SaaS Landing Page
+<div align="center">
+
+# 🚀 TalentMatch AI
+
+### 🏆 Hack2Skill India – The Data & AI Challenge 2026
+
+### **Hiring Beyond Keywords with Explainable AI**
+
+<p align="center">
+TalentMatch AI is an AI-powered recruitment intelligence platform developed by <b>Centaur Collective</b> for the <b>Hack2Skill India – The Data & AI Challenge</b>. The platform leverages <b>Semantic AI</b>, <b>Behavioral Intelligence</b>, and <b>Explainable AI</b> to intelligently rank candidates beyond traditional keyword matching, enabling recruiters to make faster, smarter, and more transparent hiring decisions.
+</p>
+
+<br>
+
+<img src="./assets/dashboard.png" width="100%" alt="TalentMatch AI Dashboard"/>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hackathon-Hack2Skill-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Challenge-The%20Data%20%26%20AI%20Challenge-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Team-Centaur%20Collective-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Sentence%20Transformers-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-Competition%20Submission-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="#problem-statement">Problem</a> •
+<a href="#solution-overview">Solution</a> •
+<a href="#key-features">Features</a> •
+<a href="#system-architecture">Architecture</a> •
+<a href="#ai-ranking-pipeline">Pipeline</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#team-centaur-collective">Team</a>
+
+</p>
+
+</div>
 
 ---
 
-## 🌐 Navbar
+# 📌 Problem Statement
 
-LOGO (AI Icon)
+Traditional Applicant Tracking Systems (ATS) primarily rely on keyword matching, often overlooking highly qualified candidates whose resumes use different terminology or transferable skills. Recruiters spend significant time manually reviewing resumes, leading to slower hiring decisions and missed talent.
 
-TalentMatch AI
-
-------------------------------------------------------------
-
-Features
-
-How It Works
-
-AI Insights
-
-Analytics
-
-Pricing
-
-Documentation
-
-GitHub
-
-Dashboard
-
-Sign In
-
-Get Started →
-
-------------------------------------------------------------
-
-Sticky Navigation
-
-Transparent → Blur on Scroll
-
-Glassmorphism
-
-Height: 80px
+TalentMatch AI solves this challenge by understanding the semantic meaning of resumes and job descriptions, enabling intelligent, explainable, and data-driven candidate ranking.
 
 ---
 
-# 🚀 Hero Section
+# 💡 Solution Overview
 
-### Badge
+TalentMatch AI is a modern AI-powered recruitment platform that automatically analyzes Job Descriptions and candidate resumes to identify the best-fit applicants using semantic understanding instead of keyword matching.
 
-✨ AI-Powered Recruitment Intelligence Platform
-
----
-
-# Hiring Beyond Keywords.
-
-## Find the Best Talent with Explainable AI.
-
-TalentMatch AI leverages semantic understanding, behavioral intelligence, and AI-powered ranking to identify the most relevant candidates—faster, smarter, and more accurately than traditional ATS systems.
-
-------------------------------------------------------------
-
-[ Get Started ]
-
-[ Watch Demo ]
-
-------------------------------------------------------------
-
-⭐⭐⭐⭐⭐ Trusted by Modern Hiring Teams
+The platform extracts structured candidate information, generates semantic embeddings, evaluates multiple candidate signals, calculates intelligent ranking scores, and provides transparent AI explanations to support recruiter decision-making.
 
 ---
 
-### Right Side Hero
+# ✨ Key Features
 
-Premium Dashboard Mockup
-
-• AI Candidate Ranking
-
-• Recruiter Analytics
-
-• Hiring Funnel
-
-• Match Score Cards
-
-• Floating Glass Cards
-
-Background
-
-Aurora Gradient
-
-Animated Grid
-
-Particles
-
-Blur Effects
+- 🤖 Semantic Resume Matching
+- 📄 PDF & DOCX Resume Parsing
+- 🧠 AI Information Extraction
+- 📊 Intelligent Candidate Ranking
+- ⭐ Explainable AI Recommendations
+- 📈 Behavioral Signal Analysis
+- 🎯 Weighted Scoring Engine
+- 👥 Candidate Comparison
+- 📋 Recruiter Analytics Dashboard
+- 📤 CSV & Excel Export
+- 📑 AI Candidate Reports
+- 🌙 Premium Enterprise UI
 
 ---
 
-# 🌍 Trusted By
+# 🏗️ System Architecture
 
-------------------------------------------------------------
-
-Google
-
-Microsoft
-
-OpenAI
-
-Meta
-
-Amazon
-
-GitHub
-
-Stripe
-
-Vercel
-
-------------------------------------------------------------
-
-Gray Monochrome Logos
-
----
-
-# ⭐ Features
-
-## Intelligent Recruitment Platform
-
-------------------------------------------------------------
-
-🧠 Semantic Resume Understanding
-
-Understands resumes beyond keywords using transformer-based embeddings.
-
-------------------------------------------------------------
-
-📊 AI Candidate Ranking
-
-Ranks candidates using semantic similarity, behavioral signals, and weighted scoring.
-
-------------------------------------------------------------
-
-✨ Explainable AI
-
-Provides transparent recommendations with matched skills and missing competencies.
-
-------------------------------------------------------------
-
-📈 Behavioral Intelligence
-
-Analyzes recruiter response, GitHub activity, interview completion, and engagement.
-
-------------------------------------------------------------
-
-⚡ Lightning Fast
-
-Ranks thousands of candidates within seconds using optimized AI pipelines.
-
-------------------------------------------------------------
-
-📑 Reports & Export
-
-Download recruiter-ready CSV and PDF reports.
-
----
-
-# ⚙️ How It Works
-
-Job Description Upload
-
-↓
-
-Resume Upload (PDF / DOCX)
-
-↓
-
-AI Resume Parsing
-
-↓
-
-Semantic Embeddings
-
-↓
-
-Behavior Analysis
-
-↓
-
-Weighted Candidate Scoring
-
-↓
-
-Explainability Engine
-
-↓
-
-Ranked Candidates
-
-↓
-
-Dashboard & Reports
-
----
-
-# 🤖 AI Pipeline
-
-Job Description
-
-↓
-
-Requirement Extraction
-
-↓
-
-Resume Parsing
-
-↓
-
+```text
+React Frontend
+      │
+      ▼
+FastAPI Backend
+      │
+      ▼
+Resume & JD Parser
+      │
+      ▼
 AI Information Extraction
-
-↓
-
+      │
+      ▼
 Sentence Transformer Embeddings
+      │
+      ▼
+Cosine Similarity Engine
+      │
+      ▼
+Weighted Scoring Engine
+      │
+      ▼
+Explainability Generator
+      │
+      ▼
+Ranked Candidates Dashboard
+```
 
-↓
+---
 
+# 🤖 AI Ranking Pipeline
+
+```text
+Job Description
+      │
+      ▼
+Resume Upload
+      │
+      ▼
+Resume Parsing
+      │
+      ▼
+AI Information Extraction
+      │
+      ▼
+Sentence Transformer Embeddings
+      │
+      ▼
 Semantic Similarity
-
-↓
-
-Behavioral Analysis
-
-↓
-
-Weighted Ranking
-
-↓
-
-Explainability
-
-↓
-
-Recruiter Dashboard
+      │
+      ▼
+Behavioral Intelligence
+      │
+      ▼
+Weighted Scoring
+      │
+      ▼
+Explainability Engine
+      │
+      ▼
+Top Ranked Candidates
+```
 
 ---
 
-# 📊 Platform Screenshots
+# ⚙️ Tech Stack
 
-Executive Dashboard
-
-↓
-
-Recruitment Workspace
-
-↓
-
-Candidate Ranking
-
-↓
-
-Analytics
-
-↓
-
-Reports
-
-↓
-
-AI Insights
-
-(Carousel)
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS, Framer Motion |
+| **Backend** | FastAPI, Python |
+| **AI / ML** | Sentence Transformers, Scikit-learn |
+| **Parsing** | PyMuPDF, python-docx |
+| **Data Processing** | Pandas, NumPy |
+| **Visualization** | Plotly, Recharts |
 
 ---
 
-# 📈 Enterprise Analytics
+# 📂 Project Structure
 
-• Hiring Funnel
-
-• Candidate Quality Distribution
-
-• Experience Analysis
-
-• Skill Distribution
-
-• Match Score Trends
-
-• AI Recommendation Metrics
-
-Interactive Charts
-
-Bar
-
-Line
-
-Radar
-
-Heatmap
-
-Treemap
+```text
+TalentMatchAI/
+│
+├── frontend/
+├── backend/
+│   ├── parser.py
+│   ├── embeddings.py
+│   ├── scorer.py
+│   ├── ranking.py
+│   ├── explain.py
+│   └── app.py
+│
+├── uploads/
+├── results/
+├── assets/
+├── README.md
+└── requirements.txt
+```
 
 ---
 
-# 💼 Enterprise Features
+# 🚀 Future Enhancements
 
-✔ Resume Parsing
-
-✔ Job Description Analysis
-
-✔ Semantic Search
-
-✔ Candidate Ranking
-
-✔ Candidate Comparison
-
-✔ Explainable AI
-
-✔ Behavioral Intelligence
-
-✔ Analytics Dashboard
-
-✔ CSV Export
-
-✔ PDF Reports
-
-✔ API Ready
-
-✔ Enterprise Security
+- Learning-to-Rank Models
+- FAISS Vector Search
+- Candidate Skill Graph
+- ATS Integration
+- Multi-language Resume Parsing
+- AI Interview Question Generator
+- Recruiter Feedback Learning Loop
+- Enterprise Authentication
 
 ---
 
-# 🌟 Why TalentMatch AI?
+# 👥 Team – Centaur Collective
 
-━━━━━━━━━━━━━━━━━━━━━━
-
-98.7%
-
-Matching Accuracy
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-100K+
-
-Candidate Profiles
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-< 2 sec
-
-Average Ranking Time
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-95%
-
-Recruiter Satisfaction
-
-━━━━━━━━━━━━━━━━━━━━━━
+| Name | Role | Email |
+|------|------|-------|
+| **Teju Priya** | 👑 Team Leader | tejupriyakukkala@gmail.com |
+| **Sai Srinivas Reddy Dodda** | 🤖 AI & Full Stack Developer | saisrinivasreddy456@gmail.com |
+| **Thokala Manasa Reddy** | ⚙️ AI & Backend Developer | thokalamanasareddy@gmail.com |
 
 ---
 
-# 👥 Testimonials
+# 🏆 Built For
 
-★★★★★
+**Hack2Skill India – The Data & AI Challenge 2026**
 
-"Reduced our screening time by over 70%."
+Developed with ❤️ by **Centaur Collective**
 
-— Senior Talent Acquisition Manager
-
-------------------------------------------------------------
-
-★★★★★
-
-"The explainable AI recommendations significantly improved hiring confidence."
-
-— HR Director
-
-------------------------------------------------------------
-
-★★★★★
-
-"An enterprise-grade recruitment platform with exceptional user experience."
-
-— Recruitment Lead
+### ⭐ *TalentMatch AI — Hiring Beyond Keywords with Explainable AI.*
 
 ---
 
-# 💳 Pricing
+<div align="center">
 
-Starter
+### ⭐ If you like our project, don't forget to Star ⭐ this repository!
 
-Professional ⭐
-
-Enterprise
-
----
-
-# ❓ Frequently Asked Questions
-
-How does semantic matching work?
-
-Does it support PDF and DOCX resumes?
-
-Can I export candidate reports?
-
-Is recruiter data secure?
-
-Can I integrate it with ATS platforms?
-
----
-
-# 🚀 Call To Action
-
-Ready to Transform Hiring?
-
-Hire based on skills, experience, and AI-powered insights—not keywords.
-
-------------------------------------------------------------
-
-[ Start Free Trial ]
-
-[ Book a Live Demo ]
-
-------------------------------------------------------------
-
----
-
-# 🌐 Footer
-
-TalentMatch AI
-
-Hiring Beyond Keywords.
-
-------------------------------------------------------------
-
-Product
-
-Features
-
-Analytics
-
-Reports
-
-AI Insights
-
-------------------------------------------------------------
-
-Resources
-
-Documentation
-
-API
-
-GitHub
-
-Support
-
-------------------------------------------------------------
-
-Company
-
-About
-
-Blog
-
-Careers
-
-Contact
-
-------------------------------------------------------------
-
-© 2026 TalentMatch AI
-
-All Rights Reserved.
+</div>
