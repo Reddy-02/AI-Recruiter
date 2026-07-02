@@ -1,9 +1,14 @@
-Navigation
-Logo
+# 🎨 TalentMatch AI – Premium Enterprise SaaS Landing Page
+
+---
+
+## 🌐 Navbar
+
+LOGO (AI Icon)
 
 TalentMatch AI
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+------------------------------------------------------------
 
 Features
 
@@ -24,40 +29,74 @@ Dashboard
 Sign In
 
 Get Started →
-Hero
-Hiring Beyond Keywords.
-AI-Powered Candidate Intelligence for Modern Recruitment.
 
-TalentMatch AI helps recruiters discover the best candidates using semantic AI, behavioral intelligence, and explainable ranking—transforming hiring into a faster, smarter, and more transparent process.
+------------------------------------------------------------
 
-[ Upload Job Description ]
+Sticky Navigation
 
-        OR
+Transparent → Blur on Scroll
 
-[ Book Live Demo ]
+Glassmorphism
 
-Right Side
+Height: 80px
+
+---
+
+# 🚀 Hero Section
+
+### Badge
+
+✨ AI-Powered Recruitment Intelligence Platform
+
+---
+
+# Hiring Beyond Keywords.
+
+## Find the Best Talent with Explainable AI.
+
+TalentMatch AI leverages semantic understanding, behavioral intelligence, and AI-powered ranking to identify the most relevant candidates—faster, smarter, and more accurately than traditional ATS systems.
+
+------------------------------------------------------------
+
+[ Get Started ]
+
+[ Watch Demo ]
+
+------------------------------------------------------------
+
+⭐⭐⭐⭐⭐ Trusted by Modern Hiring Teams
+
+---
+
+### Right Side Hero
 
 Premium Dashboard Mockup
 
-Candidate Rankings
-AI Match Score
-Analytics
-Glassmorphism Cards
-Floating Gradients
+• AI Candidate Ranking
+
+• Recruiter Analytics
+
+• Hiring Funnel
+
+• Match Score Cards
+
+• Floating Glass Cards
 
 Background
 
-Animated Grid
-
 Aurora Gradient
+
+Animated Grid
 
 Particles
 
 Blur Effects
 
-Trusted Companies
-Trusted by Modern Hiring Teams
+---
+
+# 🌍 Trusted By
+
+------------------------------------------------------------
 
 Google
 
@@ -69,78 +108,151 @@ Meta
 
 Amazon
 
-Stripe
-
 GitHub
+
+Stripe
 
 Vercel
 
-(Gray Logos)
-AI Features
-Intelligent Hiring Platform
+------------------------------------------------------------
 
-Three-column cards
+Gray Monochrome Logos
 
-Semantic Matching
+---
 
-🧠
+# ⭐ Features
 
-Understand resumes beyond keywords using transformer-based embeddings and contextual AI.
+## Intelligent Recruitment Platform
 
-Explainable AI
+------------------------------------------------------------
 
-✨
+🧠 Semantic Resume Understanding
 
-Every recommendation includes transparent reasoning, matched skills, and improvement insights.
+Understands resumes beyond keywords using transformer-based embeddings.
 
-Behavioral Intelligence
+------------------------------------------------------------
 
-📈
+📊 AI Candidate Ranking
 
-Leverage recruiter engagement, GitHub activity, profile quality, and hiring signals.
+Ranks candidates using semantic similarity, behavioral signals, and weighted scoring.
 
-Learning-to-Rank
+------------------------------------------------------------
 
-⚡
+✨ Explainable AI
 
-Optimize candidate rankings with production-grade AI scoring models.
+Provides transparent recommendations with matched skills and missing competencies.
 
-Enterprise Analytics
+------------------------------------------------------------
 
-📊
+📈 Behavioral Intelligence
 
-Interactive dashboards for hiring trends, talent pools, and recruitment performance.
+Analyzes recruiter response, GitHub activity, interview completion, and engagement.
 
-Lightning Fast
+------------------------------------------------------------
 
-🚀
+⚡ Lightning Fast
 
-Rank thousands of candidates in seconds with scalable AI infrastructure.
+Ranks thousands of candidates within seconds using optimized AI pipelines.
 
-How It Works
+------------------------------------------------------------
 
-Horizontal Timeline
+📑 Reports & Export
 
-Upload JD
-      ↓
-Upload Resumes
-      ↓
-AI Resume Parsing
-      ↓
-Semantic Analysis
-      ↓
-Candidate Ranking
-      ↓
-Recruiter Dashboard
-Platform Screenshots
+Download recruiter-ready CSV and PDF reports.
 
-Large Carousel
+---
 
-Dashboard
+# ⚙️ How It Works
+
+Job Description Upload
 
 ↓
 
-Candidates
+Resume Upload (PDF / DOCX)
+
+↓
+
+AI Resume Parsing
+
+↓
+
+Semantic Embeddings
+
+↓
+
+Behavior Analysis
+
+↓
+
+Weighted Candidate Scoring
+
+↓
+
+Explainability Engine
+
+↓
+
+Ranked Candidates
+
+↓
+
+Dashboard & Reports
+
+---
+
+# 🤖 AI Pipeline
+
+Job Description
+
+↓
+
+Requirement Extraction
+
+↓
+
+Resume Parsing
+
+↓
+
+AI Information Extraction
+
+↓
+
+Sentence Transformer Embeddings
+
+↓
+
+Semantic Similarity
+
+↓
+
+Behavioral Analysis
+
+↓
+
+Weighted Ranking
+
+↓
+
+Explainability
+
+↓
+
+Recruiter Dashboard
+
+---
+
+# 📊 Platform Screenshots
+
+Executive Dashboard
+
+↓
+
+Recruitment Workspace
+
+↓
+
+Candidate Ranking
 
 ↓
 
@@ -154,105 +266,123 @@ Reports
 
 AI Insights
 
-Use your premium UI screenshots.
+(Carousel)
 
-AI Pipeline
+---
 
-Beautiful infographic
+# 📈 Enterprise Analytics
 
-Job Description
-        │
-        ▼
-Resume Intelligence
-        │
-        ▼
-Semantic Embeddings
-        │
-        ▼
-Behavioral Analysis
-        │
-        ▼
-Weighted Scoring
-        │
-        ▼
-Explainable AI
-        │
-        ▼
-Ranked Candidates
-Metrics
+• Hiring Funnel
 
-Animated Numbers
+• Candidate Quality Distribution
 
-98.7%
+• Experience Analysis
 
-Matching Accuracy
+• Skill Distribution
 
-━━━━━━━━━━━━━━
+• Match Score Trends
 
-100K+
+• AI Recommendation Metrics
 
-Candidate Profiles
+Interactive Charts
 
-━━━━━━━━━━━━━━
+Bar
 
-<2 sec
+Line
 
-Average Ranking Time
+Radar
 
-━━━━━━━━━━━━━━
+Heatmap
 
-95%
+Treemap
 
-Recruiter Satisfaction
-Enterprise Features
+---
 
-Split Layout
+# 💼 Enterprise Features
 
-Left
+✔ Resume Parsing
 
-Text
-
-Right
-
-Illustration
-
-Features
-
-✔ AI Resume Parsing
+✔ Job Description Analysis
 
 ✔ Semantic Search
 
-✔ Vector Embeddings
+✔ Candidate Ranking
 
 ✔ Candidate Comparison
 
-✔ Recruiter Dashboard
+✔ Explainable AI
 
-✔ Analytics
+✔ Behavioral Intelligence
+
+✔ Analytics Dashboard
 
 ✔ CSV Export
 
 ✔ PDF Reports
 
-✔ AI Recommendations
+✔ API Ready
 
-Testimonials
+✔ Enterprise Security
 
-Glass Cards
+---
 
-"Reduced our screening time by 75%."
+# 🌟 Why TalentMatch AI?
 
-Senior Recruiter
+━━━━━━━━━━━━━━━━━━━━━━
 
-"The AI explanations improved hiring confidence."
+98.7%
 
-Talent Acquisition Lead
+Matching Accuracy
 
-"Enterprise-grade experience."
+━━━━━━━━━━━━━━━━━━━━━━
 
-HR Director
+100K+
 
-Pricing
+Candidate Profiles
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+< 2 sec
+
+Average Ranking Time
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+95%
+
+Recruiter Satisfaction
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+---
+
+# 👥 Testimonials
+
+★★★★★
+
+"Reduced our screening time by over 70%."
+
+— Senior Talent Acquisition Manager
+
+------------------------------------------------------------
+
+★★★★★
+
+"The explainable AI recommendations significantly improved hiring confidence."
+
+— HR Director
+
+------------------------------------------------------------
+
+★★★★★
+
+"An enterprise-grade recruitment platform with exceptional user experience."
+
+— Recruitment Lead
+
+---
+
+# 💳 Pricing
 
 Starter
 
@@ -260,30 +390,45 @@ Professional ⭐
 
 Enterprise
 
-FAQ
+---
 
-Accordion
+# ❓ Frequently Asked Questions
 
 How does semantic matching work?
 
+Does it support PDF and DOCX resumes?
+
+Can I export candidate reports?
+
 Is recruiter data secure?
 
-Does it support PDF & DOCX?
+Can I integrate it with ATS platforms?
 
-Can I export reports?
+---
 
-CTA
+# 🚀 Call To Action
+
 Ready to Transform Hiring?
 
-Discover candidates based on skills, experience, and AI-powered insights—not just keywords.
+Hire based on skills, experience, and AI-powered insights—not keywords.
+
+------------------------------------------------------------
 
 [ Start Free Trial ]
 
-[ View Live Demo ]
-Footer
+[ Book a Live Demo ]
+
+------------------------------------------------------------
+
+---
+
+# 🌐 Footer
+
 TalentMatch AI
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Hiring Beyond Keywords.
+
+------------------------------------------------------------
 
 Product
 
@@ -295,7 +440,19 @@ Reports
 
 AI Insights
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+------------------------------------------------------------
+
+Resources
+
+Documentation
+
+API
+
+GitHub
+
+Support
+
+------------------------------------------------------------
 
 Company
 
@@ -305,18 +462,10 @@ Blog
 
 Careers
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Contact
 
-Resources
-
-Documentation
-
-GitHub
-
-API
-
-Support
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+------------------------------------------------------------
 
 © 2026 TalentMatch AI
+
+All Rights Reserved.
