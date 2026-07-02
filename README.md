@@ -133,11 +133,11 @@ npm run dev
 
 ### Centaur Collective
 
-| Member | Role |
-|----------|---------------------------|
-| **Teju Priya** | Team Leader |
-| **Sai Srinivas Reddy Dodda** | AI & Full Stack Developer |
-| **Thokala Manasa Reddy** | AI & Backend Developer |
+| Member 
+|----------
+| **Teju Priya** 
+| **Sai Srinivas Reddy Dodda** 
+| **Thokala Manasa Reddy** 
 
 ---
 
