@@ -1,79 +1,55 @@
 <div align="center">
 
-# 🚀 TalentMatch AI
+# TalentMatch AI
 
-### 🏆 Hack2Skill India – The Data & AI Challenge 2026
+### Hiring Beyond Keywords with Explainable AI
 
-### **Hiring Beyond Keywords with Explainable AI**
+**Hack2Skill India – The Data & AI Challenge 2026**
 
-<p align="center">
-TalentMatch AI is an AI-powered recruitment intelligence platform that transforms candidate screening using <b>Semantic AI</b>, <b>Behavioral Intelligence</b>, and <b>Explainable AI</b>. Instead of traditional keyword matching, our platform understands the meaning behind resumes and job descriptions to identify the best candidates with transparent AI-powered recommendations.
-</p>
+AI-powered recruitment intelligence platform that ranks candidates using semantic understanding, behavioral signals, and explainable AI instead of traditional keyword matching.
 
-<br>
+<p>
 
-> 📸 **Replace this image with your dashboard screenshot**
+<img src="https://img.shields.io/badge/Hackathon-Hack2Skill-orange?style=flat-square"/>
 
-<img src="assets/dashboard.png" width="100%" alt="TalentMatch AI Dashboard"/>
+<img src="https://img.shields.io/badge/Team-Centaur%20Collective-blueviolet?style=flat-square"/>
 
-<br>
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi"/>
 
-<img src="https://img.shields.io/badge/Hackathon-Hack2Skill-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Sentence%20Transformers-red?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Challenge-Data%20%26%20AI-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Team-Centaur%20Collective-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI-Sentence%20Transformers-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-success?style=flat-square"/>
 
 </p>
+
+<img src="assets/dashboard.png" width="100%">
 
 </div>
 
 ---
 
-# 📌 Problem Statement
+## Overview
 
-Traditional Applicant Tracking Systems (ATS) rely heavily on keyword matching, causing recruiters to overlook highly qualified candidates whose resumes use different terminology despite having the required skills and experience.
-
-TalentMatch AI solves this challenge by leveraging **Semantic AI**, **Behavioral Intelligence**, and **Explainable AI** to understand resumes beyond keywords, enabling faster, smarter, and more transparent hiring decisions.
+TalentMatch AI is an AI-powered recruitment intelligence platform designed to modernize candidate discovery and ranking. The platform analyzes Job Descriptions and resumes using semantic embeddings, evaluates behavioral hiring signals, and generates explainable recommendations to help recruiters identify the best-fit candidates with greater accuracy and transparency.
 
 ---
 
-# 💡 Solution Overview
+## Key Highlights
 
-TalentMatch AI is an intelligent recruitment platform that enables recruiters to upload a Job Description and multiple candidate resumes in PDF or DOCX format.
-
-The platform extracts structured information, generates semantic embeddings, evaluates candidate relevance using weighted scoring, analyzes behavioral signals, and provides explainable AI recommendations with recruiter-ready reports.
-
----
-
-# ✨ Key Features
-
-- 🤖 Semantic Resume Matching
-- 📄 PDF & DOCX Resume Parsing
-- 🧠 AI Information Extraction
-- ⭐ Explainable AI Recommendations
-- 📊 Intelligent Candidate Ranking
-- 📈 Behavioral Signal Analysis
-- 🎯 Weighted Scoring Engine
-- 📋 Recruiter Dashboard
-- 📉 Analytics & Insights
-- 📤 CSV Export
-- 🌙 Modern Enterprise UI
-- ⚡ Fast & Scalable Processing
+- Semantic Resume Matching
+- AI Information Extraction
+- Explainable Candidate Ranking
+- Behavioral Signal Analysis
+- Weighted Scoring Engine
+- Recruiter Analytics Dashboard
+- Modern Enterprise UI
+- CSV Report Generation
 
 ---
 
-# 🏗️ System Architecture
+## System Architecture
 
 ```text
 React Frontend
@@ -88,202 +64,99 @@ Resume & JD Parser
 AI Information Extraction
         │
         ▼
-Sentence Transformer Embeddings
+Sentence Transformer
         │
         ▼
-Cosine Similarity Engine
+Similarity Engine
         │
         ▼
-Weighted Scoring Engine
+Weighted Ranking
         │
         ▼
-Explainability Generator
+Explainability
         │
         ▼
-Ranked Candidates Dashboard
+Dashboard & Reports
 ```
 
 ---
 
-# 🤖 AI Ranking Pipeline
+## Technology Stack
 
-```text
-Job Description
-        │
-        ▼
-Resume Upload
-        │
-        ▼
-Resume Parsing
-        │
-        ▼
-AI Information Extraction
-        │
-        ▼
-Sentence Transformer Embeddings
-        │
-        ▼
-Semantic Similarity
-        │
-        ▼
-Behavioral Intelligence
-        │
-        ▼
-Weighted Scoring
-        │
-        ▼
-Explainability Engine
-        │
-        ▼
-Top Ranked Candidates
-        │
-        ▼
-Dashboard & CSV Export
-```
-
----
-
-# ⚙️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| Frontend | React, TypeScript, Vite, Tailwind CSS, Framer Motion |
+| Layer | Technologies |
+|--------|--------------|
+| Frontend | React, TypeScript, Vite, Tailwind CSS |
 | Backend | FastAPI, Python |
-| AI / ML | Sentence Transformers, Scikit-learn |
+| AI | Sentence Transformers, Scikit-learn |
 | Parsing | PyMuPDF, python-docx |
-| Data Processing | Pandas, NumPy |
+| Data | Pandas, NumPy |
 | Visualization | Plotly |
 
 ---
 
-# 📂 Project Structure
+## Repository Structure
 
 ```text
 TalentMatchAI/
 │
 ├── public/
-│   ├── favicon.svg
-│   └── icons.svg
-│
 ├── src/
 │   ├── assets/
 │   ├── App.tsx
-│   ├── App.css
-│   ├── index.css
 │   ├── main.tsx
-│   └── ...
+│   ├── App.css
+│   └── index.css
 │
-├── .gitignore
-├── index.html
 ├── package.json
-├── package-lock.json
-├── postcss.config.js
-├── tailwind.config.js
-├── tsconfig.json
-├── tsconfig.app.json
-├── tsconfig.node.json
 ├── vite.config.ts
+├── tailwind.config.js
 └── README.md
 ```
 
 ---
 
-# 🚀 Getting Started
-
-## Clone the Repository
+## Installation
 
 ```bash
-git clone https://github.com/your-username/TalentMatchAI.git
+git clone https://github.com/<username>/TalentMatchAI.git
 
 cd TalentMatchAI
-```
 
-## Install Dependencies
-
-```bash
 npm install
-```
 
-## Start Development Server
-
-```bash
 npm run dev
 ```
 
-Open:
+---
 
-```
-http://localhost:5173
-```
+## Team
+
+### Centaur Collective
+
+| Member | Role |
+|----------|---------------------------|
+| **Teju Priya** | Team Leader |
+| **Sai Srinivas Reddy Dodda** | AI & Full Stack Developer |
+| **Thokala Manasa Reddy** | AI & Backend Developer |
 
 ---
 
-# 📸 Screenshots
+## Contact
 
-## Dashboard
+**Teju Priya**  
+Team Leader  
+📧 tejupriyakukkala@gmail.com
 
-> Add Screenshot
+**Sai Srinivas Reddy Dodda**  
+📧 saisrinivasreddy456@gmail.com
 
----
-
-## Candidate Ranking
-
-> Add Screenshot
-
----
-
-## Analytics
-
-> Add Screenshot
+**Thokala Manasa Reddy**  
+📧 thokalamanasareddy@gmail.com
 
 ---
 
-## AI Insights
+## Acknowledgements
 
-> Add Screenshot
+Developed by **Centaur Collective** for the **Hack2Skill India – The Data & AI Challenge 2026**.
 
----
-
-# 📈 Future Enhancements
-
-- Learning-to-Rank Models
-- FAISS Vector Search
-- Interview Recommendation Engine
-- ATS Integration
-- Multi-language Resume Parsing
-- AI Interview Copilot
-- Recruiter Chat Assistant
-- Email Automation
-- Cloud Deployment
-
----
-
-# 👥 Team – Centaur Collective
-
-| Name | Role | Email |
-|------|------|-------|
-| **Teju Priya** | Team Leader | tejupriyakukkala@gmail.com |
-| **Sai Srinivas Reddy Dodda** | AI & Full Stack Developer | saisrinivasreddy456@gmail.com |
-| **Thokala Manasa Reddy** | AI & Backend Developer | thokalamanasareddy@gmail.com |
-
----
-
-# 🏆 Developed For
-
-**Hack2Skill India – The Data & AI Challenge 2026**
-
-### Team Name
-
-# **Centaur Collective**
-
----
-
-<div align="center">
-
-## ⭐ If you found this project interesting, consider giving it a Star!
-
-### TalentMatch AI — Hiring Beyond Keywords with Explainable AI
-
-Made with ❤️ by **Centaur Collective**
-
-</div>
+TalentMatch AI demonstrates how semantic understanding, behavioral intelligence, and explainable AI can improve modern recruitment workflows by moving beyond traditional keyword-based applicant tracking systems.
