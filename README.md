@@ -1,137 +1,322 @@
-<div align="center">
+Navigation
+Logo
 
-# 🚀 TalentMatch AI
+TalentMatch AI
 
-### **Hiring Beyond Keywords**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-An enterprise-grade AI recruitment platform that intelligently matches candidates using **semantic understanding**, **explainable AI**, and **multi-factor ranking**, enabling recruiters to make faster and more informed hiring decisions.
+Features
 
-<p>
+How It Works
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Sentence%20Transformers-blue?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/Hack2Skill-2026-orange?style=for-the-badge)
+AI Insights
 
-</p>
+Analytics
 
----
+Pricing
 
-### 🌐 Enterprise Recruitment • 🤖 Explainable AI • 📊 Smart Ranking • ⚡ Semantic Search
+Documentation
 
----
+GitHub
 
-<img width="100%" src="docs/dashboard.png" alt="TalentMatch AI Dashboard"/>
+Dashboard
 
-> **TalentMatch AI transforms recruitment from keyword-based filtering into intelligent candidate discovery using semantic AI.**
+Sign In
 
-</div>
+Get Started →
+Hero
+Hiring Beyond Keywords.
+AI-Powered Candidate Intelligence for Modern Recruitment.
 
----
+TalentMatch AI helps recruiters discover the best candidates using semantic AI, behavioral intelligence, and explainable ranking—transforming hiring into a faster, smarter, and more transparent process.
 
-# Overview
+[ Upload Job Description ]
 
-TalentMatch AI is an AI-powered recruitment intelligence platform built for modern hiring teams.
+        OR
 
-The platform analyzes **Job Descriptions** and **Candidate Resumes** using semantic embeddings, evaluates candidates across multiple hiring signals, and generates transparent, explainable recommendations to help recruiters identify the most suitable talent.
+[ Book Live Demo ]
 
-Unlike traditional ATS systems, TalentMatch AI understands **context**, **experience**, and **skills**, rather than relying solely on keyword matching.
+Right Side
 
----
+Premium Dashboard Mockup
 
-# Why TalentMatch AI?
+Candidate Rankings
+AI Match Score
+Analytics
+Glassmorphism Cards
+Floating Gradients
 
-<table>
-<tr>
+Background
 
-<td width="33%" align="center">
+Animated Grid
 
-## 🧠
+Aurora Gradient
 
-### Semantic Matching
+Particles
 
-Transformer-based semantic understanding instead of keyword search.
+Blur Effects
 
-</td>
+Trusted Companies
+Trusted by Modern Hiring Teams
 
-<td width="33%" align="center">
+Google
 
-## ⭐
+Microsoft
 
-### Explainable AI
+OpenAI
 
-Transparent recommendations with strengths, gaps, and hiring insights.
+Meta
 
-</td>
+Amazon
 
-<td width="33%" align="center">
+Stripe
 
-## 📊
+GitHub
 
-### Smart Ranking
+Vercel
 
-Weighted scoring using skills, experience, education, and recruiter signals.
+(Gray Logos)
+AI Features
+Intelligent Hiring Platform
 
-</td>
+Three-column cards
 
-</tr>
-</table>
+Semantic Matching
 
----
+🧠
 
-# Platform Highlights
+Understand resumes beyond keywords using transformer-based embeddings and contextual AI.
 
-- 📄 Intelligent Resume Parsing
-- 🤖 AI Information Extraction
-- 🔍 Semantic Candidate Matching
-- 📈 Multi-Factor Ranking Engine
-- ⭐ Explainable AI Recommendations
-- 📊 Executive Analytics Dashboard
-- 👥 Candidate Comparison
-- 📑 Recruiter Reports
-- 📥 CSV Export
-- 🌙 Premium Dark & Light Theme
+Explainable AI
 
----
+✨
 
-# Architecture
+Every recommendation includes transparent reasoning, matched skills, and improvement insights.
 
-```text
+Behavioral Intelligence
+
+📈
+
+Leverage recruiter engagement, GitHub activity, profile quality, and hiring signals.
+
+Learning-to-Rank
+
+⚡
+
+Optimize candidate rankings with production-grade AI scoring models.
+
+Enterprise Analytics
+
+📊
+
+Interactive dashboards for hiring trends, talent pools, and recruitment performance.
+
+Lightning Fast
+
+🚀
+
+Rank thousands of candidates in seconds with scalable AI infrastructure.
+
+How It Works
+
+Horizontal Timeline
+
+Upload JD
+      ↓
+Upload Resumes
+      ↓
+AI Resume Parsing
+      ↓
+Semantic Analysis
+      ↓
+Candidate Ranking
+      ↓
+Recruiter Dashboard
+Platform Screenshots
+
+Large Carousel
+
+Dashboard
+
+↓
+
+Candidates
+
+↓
+
+Analytics
+
+↓
+
+Reports
+
+↓
+
+AI Insights
+
+Use your premium UI screenshots.
+
+AI Pipeline
+
+Beautiful infographic
+
 Job Description
         │
         ▼
-Resume Upload
+Resume Intelligence
         │
         ▼
-Resume & JD Parsing
+Semantic Embeddings
         │
         ▼
-AI Information Extraction
+Behavioral Analysis
         │
         ▼
-Sentence Transformer Embeddings
+Weighted Scoring
         │
         ▼
-Similarity Engine
+Explainable AI
         │
         ▼
-Weighted Ranking
-        │
-        ▼
-Explainability
-        │
-        ▼
-Dashboard & Reports
-```
+Ranked Candidates
+Metrics
 
----
+Animated Numbers
 
-<div align="center">
+98.7%
 
-### Built for the **Hack2Skill – The Data & AI Challenge**
+Matching Accuracy
 
-**Making Hiring Smarter with Explainable AI**
+━━━━━━━━━━━━━━
 
-</div>
+100K+
+
+Candidate Profiles
+
+━━━━━━━━━━━━━━
+
+<2 sec
+
+Average Ranking Time
+
+━━━━━━━━━━━━━━
+
+95%
+
+Recruiter Satisfaction
+Enterprise Features
+
+Split Layout
+
+Left
+
+Text
+
+Right
+
+Illustration
+
+Features
+
+✔ AI Resume Parsing
+
+✔ Semantic Search
+
+✔ Vector Embeddings
+
+✔ Candidate Comparison
+
+✔ Recruiter Dashboard
+
+✔ Analytics
+
+✔ CSV Export
+
+✔ PDF Reports
+
+✔ AI Recommendations
+
+Testimonials
+
+Glass Cards
+
+"Reduced our screening time by 75%."
+
+Senior Recruiter
+
+"The AI explanations improved hiring confidence."
+
+Talent Acquisition Lead
+
+"Enterprise-grade experience."
+
+HR Director
+
+Pricing
+
+Starter
+
+Professional ⭐
+
+Enterprise
+
+FAQ
+
+Accordion
+
+How does semantic matching work?
+
+Is recruiter data secure?
+
+Does it support PDF & DOCX?
+
+Can I export reports?
+
+CTA
+Ready to Transform Hiring?
+
+Discover candidates based on skills, experience, and AI-powered insights—not just keywords.
+
+[ Start Free Trial ]
+
+[ View Live Demo ]
+Footer
+TalentMatch AI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Product
+
+Features
+
+Analytics
+
+Reports
+
+AI Insights
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Company
+
+About
+
+Blog
+
+Careers
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Resources
+
+Documentation
+
+GitHub
+
+API
+
+Support
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+© 2026 TalentMatch AI
